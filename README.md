@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mark-1010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 DevOps Engineer | 4+ Years of Automating, Scaling, and Securing Systems
+Passionate about building reliable infrastructure, CI/CD pipelines, and cloud-native solutions.
+Currently documenting my journey as I grow deeper into DevOps tools, platform engineering, and automation best practices.
 
-<!---
-mark-1010/mark-1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Tech I work with: Docker, Kubernetes, Terraform, Jenkins, Ansible, GitHub Actions, AWS, Linux, Bash, Python
+📘 Now learning: GitOps, SRE practices, and cloud architecture at scale
+🛠️ Sharing projects, scripts, and lessons learned — one commit at a time.
+
+📍 Open to collaboration, mentorship, and DevOps chats!
